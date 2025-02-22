@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# I'm Jan Opala 
+### 🎓💻 Data Science Student at Faculty of Mathematics and Information Sciences, Warsaw University of Technology
+### 🎓🧠 Cognitive Science MA Student at Faculty of Psychology, University of Warsaw
+### 🎓🏅 Inter-faculty Individual Studies in Mathematics and Natural Sciences Graduate, University of Warsaw
+
+I am a passionate double major student who studies at two universities at the same time which is greatly challenging and rewarding as I have an opportunity to gain knowledge and skills in several fields I am interested in.
+Currently I am seeking an IT internship where I could obtain some hands-on experience and expand my horizons.
+
+
+
 <!--
 **JanOpala/JanOpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
