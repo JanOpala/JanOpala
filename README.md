@@ -70,6 +70,6 @@ Currently, I’m looking for an internship in **data analysis**, **machine learn
 ---
 
 ## Let’s Connect!  
-Feel free to reach out via [email](mailto:jan.opala.business@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jan-opala/). I’m always happy to schmooze
+Feel free to reach out via [email](mailto:jan.opala.business@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jan-opala/)
 
 ---
