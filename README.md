@@ -6,7 +6,7 @@
 # I'm Jan Opala  
 ### 🎓💻 Data Science Student – Warsaw University of Technology  
 ### 🧠🎓 Cognitive Science MA Student – University of Warsaw  
-### 🧠📚 Cognitive Science Graduate (BSc) – Inter-faculty Individual Studies  
+### 🧠📚 Cognitive Science Graduate (BSc) – Inter-faculty Individual Studies, University of Warsaw
 
 ---
 
