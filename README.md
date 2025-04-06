@@ -23,25 +23,25 @@ Currently, I’m looking for an internship in **data analysis**, **machine learn
 - 👩‍⚕️ **Dementia Classifier** (2024)  
   Logistic regression, SVM and MLP models trained on medical data to predict dementia.  
   *F1: 1.0 (dominant variable), 0.767 (after removal)*  
-  [GitHub link](https://github.com/JanOpala)
+  [GitHub link](https://github.com/JanOpala/dementia-classifier)
 
 - 🏃 **Human Activity Recognition** (2024)  
   Clustering of gyroscope/accelerometer data from wearable devices using GMM.  
   *Adjusted Rand Index: 0.69*  
-  [GitHub link](https://github.com/JanOpala)
+  [GitHub link](https://github.com/JanOpala/HARClusteringModel)
 
 - 🗺️ **MapMyWalk Dashboard** (2024)  
   Integration of Spotify, MapMyRun, and air quality data in a shiny dashboard.  
   *Exploration of music/environmental impact on activity*  
-  [GitHub link](https://github.com/JanOpala)
+  [GitHub link](https://github.com/JanOpala/TWD_Projekt2_MapMyWalk)
 
 - 📚 **Semantic Text Analysis** (2025)  
   TF-IDF based comparison of philosophy and neuroscience papers about consciousness.  
-  [GitHub link](https://github.com/JanOpala)
+  [GitHub link](https://github.com/JanOpala/consciousness-word-frequency-analysis)
 
 ---
 
-## 🧰 Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -53,7 +53,7 @@ Currently, I’m looking for an internship in **data analysis**, **machine learn
 
 ## Other Activities
 
-- 🌍 **Projects coordinator** – WRS MiNI
+- 🌍 **Projects coordinator** – WRS MiNI (Students' Union Faculty Council at WUT)
 - 💡 **Founder & president** – Computational and Formal Linguistics Circle at UW  
 - 👨‍🔬️ **Speaker and organizer** – “Zderzenia Poznawcze 2024” student conference  
 - 🎭 **Actor** – Theatre of Warsaw University of Technology  
