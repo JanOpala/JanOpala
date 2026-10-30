@@ -4,40 +4,37 @@
 
 
 # I'm Jan Opala  
-### 🎓💻 Data Science Student – Warsaw University of Technology  
-### 🧠🎓 Cognitive Science MA Student – University of Warsaw  
-### 🧠📚 Cognitive Science Graduate (BSc) – Inter-faculty Individual Studies, University of Warsaw
+I am a Methods in Artificial Intelligence master student at Warsaw Univerity of Technology, Faculty of Mathematics and Information Sciences.
+I have an interdisciplinary academic background with a bachelor degree in both Cognitive Science and Data Science.
 
 ---
 
-I’m a data and cognitive science student with a deep interest in **machine learning, natural language processing**, and **data visualization**. I combine technical skills with a passion for **science communication**, **education**, and **creative work** — as a **theater actor**, **student project coordinator**, and **public speaker**.
+My scientific interests include but do not limit to cognitive psychophysiology, retrieval-augmented generation, machine learning, natural language processing, linguistics and artificial intellgence in the broad sense.
 
-My studies at two universities give me the unique opportunity to blend perspectives from **computer science**, **psychology**, and **philosophy**.
-
-Currently, I’m looking for an internship in **data analysis**, **machine learning**, or **NLP**, where I can apply my skills and grow through hands-on experience.
 
 ---
 
 ## Selected Projects
 
-- 👩‍⚕️ **Dementia Classifier** (2024)  
-  Logistic regression, SVM and MLP models trained on medical data to predict dementia.  
-  *F1: 1.0 (dominant variable), 0.767 (after removal)*  
-  [GitHub link](https://github.com/JanOpala/dementia-classifier)
+- **Moodle AI assistant** (2026)  
+  Plug-in to Moodle LMS that incorporates RAG and can generate quizzes and revisions based on the context from learning materials provided by the teacher.
+  Contributed to the article -> [arxiv link](https://arxiv.org/pdf/2605.06963)
+  [GitHub link](https://github.com/EduChatbot)
 
-- 🏃 **Human Activity Recognition** (2024)  
-  Clustering of gyroscope/accelerometer data from wearable devices using GMM.  
-  *Adjusted Rand Index: 0.69*  
-  [GitHub link](https://github.com/JanOpala/HARClusteringModel)
+- **Ingredients Predictor** (2026)  
+  Deep learning model trained on recipes to identify ingredients based on the name of the dish.
+  Data preparation and preprocessing included web scraping and local LLM support for parsing name of ingredients.
+  [GitHub link](https://github.com/JanOpala/ingredients-predictor)
 
-- 🗺️ **MapMyWalk Dashboard** (2024)  
-  Integration of Spotify, MapMyRun, and air quality data in a shiny dashboard.  
-  *Exploration of music/environmental impact on activity*  
-  [GitHub link](https://github.com/JanOpala/TWD_Projekt2_MapMyWalk)
+- **Humor Classifier** (2025)  
+  Classifier predicting humorous texts based on linguistic theories of humor.
+  Model interpretation supported with feature importance analysis.
+  [GitHub link](https://github.com/JanOpala/humor-classifier)
 
-- 📚 **Semantic Text Analysis** (2025)  
-  TF-IDF based comparison of philosophy and neuroscience papers about consciousness.  
-  [GitHub link](https://github.com/JanOpala/consciousness-word-frequency-analysis)
+- **Berlin Bicycle Traffic Analysis** (2026)  
+  Big Data analysis of bicycle traffic and its interaction with public transport traffic in Berlin.
+  The analysis included extracting data from API using Apache NiFi and preprocessing in Apache Spark.
+  [GitHub link](https://github.com/JanOpala/berlin-bikes-big-data)
 
 ---
 
@@ -53,21 +50,11 @@ Currently, I’m looking for an internship in **data analysis**, **machine learn
 
 ## Other Activities
 
-- 🌍 **Projects coordinator** – WRS MiNI (Students' Union Faculty Council at WUT)
-- 💡 **Founder & president** – Computational and Formal Linguistics Circle at UW  
-- 👨‍🔬️ **Speaker and organizer** – “Zderzenia Poznawcze 2024” student conference  
-- 🎭 **Actor** – Theatre of Warsaw University of Technology  
+- **Conference speaker** (IJCAI-ECAI 2026 Bremen, AI Bay 2026 Gdańsk, Cognitive Collisions student conference 2024 and 2026 Warsaw) 
+- **Projects coordinator** – WRS MiNI (Students' Union Faculty Council at WUT 2022-2025)
+- **Founder** – Computational and Formal Linguistics Circle at UW (President 2023-2026)
+- **Actor** – Theatre of Warsaw University of Technology  
 
----
-
-## I'm Currently Exploring
-
-- 🤖 Educational chatbots and dialogue systems  
-- 🧩 Retrieval-Augmented Generation (RAG) in NLP  
-- 🧠 Modeling cognitive processes and reasoning  
-- 🌌 Consciousness studies and interdisciplinary approaches to cognition  
-
----
 
 ## Let’s Connect!  
 Feel free to reach out via [email](mailto:jan.opala.business@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jan-opala/)
